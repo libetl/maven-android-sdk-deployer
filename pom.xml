@@ -66,6 +66,10 @@
 
     <extras.compatibility.groupid>android.support</extras.compatibility.groupid>
 
+    <extras.design.groupid>${extras.compatibility.groupid}</extras.design.groupid>
+    <extras.design.artifactid>design</extras.design.artifactid>
+    <extras.design.version.prefix></extras.design.version.prefix>
+
     <extras.compatibility.v4.groupid>${extras.compatibility.groupid}</extras.compatibility.v4.groupid>
     <extras.compatibility.v4.artifactid>compatibility-v4</extras.compatibility.v4.artifactid>
     <extras.compatibility.v4.version.prefix></extras.compatibility.v4.version.prefix>
@@ -73,6 +77,10 @@
     <extras.compatibility.v7.appcompat.groupid>${extras.compatibility.groupid}</extras.compatibility.v7.appcompat.groupid>
     <extras.compatibility.v7.appcompat.artifactid>compatibility-v7-appcompat</extras.compatibility.v7.appcompat.artifactid>
     <extras.compatibility.v7.appcompat.version.prefix></extras.compatibility.v7.appcompat.version.prefix>
+
+    <extras.compatibility.v7.recyclerview.groupid>${extras.compatibility.groupid}</extras.compatibility.v7.recyclerview.groupid>
+    <extras.compatibility.v7.recyclerview.artifactid>compatibility-v7-recyclerview</extras.compatibility.v7.recyclerview.artifactid>
+    <extras.compatibility.v7.recyclerview.version.prefix></extras.compatibility.v7.recyclerview.version.prefix>
 
     <extras.compatibility.v7.mediarouter.groupid>${extras.compatibility.groupid}</extras.compatibility.v7.mediarouter.groupid>
     <extras.compatibility.v7.mediarouter.artifactid>compatibility-v7-mediarouter</extras.compatibility.v7.mediarouter.artifactid>
